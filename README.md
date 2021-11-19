@@ -1,5 +1,5 @@
-# DB
-MySQL のアクセスを担当します。
+# salesforce-data-models  
+salesforce-data-models は、MySQLへのアクセスを担当するデータモデルです。  
 
 ## 事前準備
 接続先の MySQL に関する設定は 環境変数で行います。
